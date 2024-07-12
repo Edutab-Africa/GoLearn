@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="43000"
-    id="com.moodle.edutab"
+    id="com.moodle.golearn"
     ios-CFBundleVersion="4.3.0.0"
     version="4.3.0"
     versionCode="43000"

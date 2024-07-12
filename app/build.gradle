@@ -196,7 +196,7 @@ android {
     }
 
     lintOptions {
-      abortOnError false
+      abortOnError false 
     }
 
     buildToolsVersion cordovaConfig.BUILD_TOOLS_VERSION

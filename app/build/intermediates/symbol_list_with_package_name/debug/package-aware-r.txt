@@ -1,4 +1,4 @@
-com.moodle.edutab
+com.moodle.golearn
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1786,7 +1786,6 @@ drawable ic_action_previous_item
 drawable ic_action_remove
 drawable ic_clock_black_24dp
 drawable ic_cvd_splashscreens
-drawable ic_cvd_splashscreens123
 drawable ic_keyboard_black_24dp
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black

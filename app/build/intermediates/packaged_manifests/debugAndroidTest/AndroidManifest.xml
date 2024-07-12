@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.moodle.edutab.test" >
+    package="com.moodle.golearn.test" >
 
     <uses-sdk
         android:minSdkVersion="22"
-        android:targetSdkVersion="33" />
+        android:targetSdkVersion="34" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.moodle.edutab"
-        android:targetPackage="com.moodle.edutab" />
+        android:label="Tests for com.moodle.golearn"
+        android:targetPackage="com.moodle.golearn" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />

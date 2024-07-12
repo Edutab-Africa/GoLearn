@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.moodle.edutab.app-mergeDebugResources-33:/values-v28/values-v28.xml",
+            "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0e3120453a21a246b2089d98eb4f8a95\\transformed\\appcompat-1.4.2\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\8ec60e5ed558d4df036768066ecdb235\\transformed\\material-1.4.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\1ec1e2091e15daa84bdf5a9d645b8de7\\transformed\\material-1.4.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

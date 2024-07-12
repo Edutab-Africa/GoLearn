@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.moodle.edutab.app-mergeDebugResources-33:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\8ec60e5ed558d4df036768066ecdb235\\transformed\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\1ec1e2091e15daa84bdf5a9d645b8de7\\transformed\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

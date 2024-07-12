@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.moodle.edutab.app-mergeDebugResources-33:/values-tl/values-tl.xml",
+            "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\42af83ac7e7cf3463a32c53289952c30\\transformed\\biometric-1.0.1\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\556ab17d0d2e71d9f069ea00c7122cf4\\transformed\\jetified-play-services-base-18.0.1\\res\\values-tl\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,183,297,393,515,668,811,963,1090,1228,1328",
-                        "endColumns": "127,113,95,121,152,142,151,126,137,99,125",
-                        "endOffsets": "178,292,388,510,663,806,958,1085,1223,1323,1449"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,296,468,602,707,861,993,1111,1220,1395,1498,1672,1806,1964,2139,2203,2265",
+                        "endColumns": "102,171,133,104,153,131,117,108,174,102,173,133,157,174,63,61,76",
+                        "endOffsets": "295,467,601,706,860,992,1110,1219,1394,1497,1671,1805,1963,2138,2202,2264,2341"
                     },
                     "to": {
-                        "startLines": "33,56,57,60,61,62,63,64,65,66,67",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3025,5927,6041,6301,6423,6576,6719,6871,6998,7136,7236",
-                        "endColumns": "127,113,95,121,152,142,151,126,137,99,125",
-                        "endOffsets": "3148,6036,6132,6418,6571,6714,6866,6993,7131,7231,7357"
+                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3565,3672,3848,3986,4095,4253,4389,4511,4769,4948,5055,5233,5371,5533,5712,5780,5846",
+                        "endColumns": "106,175,137,108,157,135,121,112,178,106,177,137,161,178,67,65,80",
+                        "endOffsets": "3667,3843,3981,4090,4248,4384,4506,4619,4943,5050,5228,5366,5528,5707,5775,5841,5922"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\8ec60e5ed558d4df036768066ecdb235\\transformed\\material-1.4.0\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\1ec1e2091e15daa84bdf5a9d645b8de7\\transformed\\material-1.4.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0e3120453a21a246b2089d98eb4f8a95\\transformed\\appcompat-1.4.2\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,24 +57,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\09d0bdea71eaacaec44c3e37364586b9\\transformed\\jetified-play-services-base-18.0.1\\res\\values-tl\\values.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\cbda0756a0c539940dbced08ba1dc02f\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-tl\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,296,468,602,707,861,993,1111,1220,1395,1498,1672,1806,1964,2139,2203,2265",
-                        "endColumns": "102,171,133,104,153,131,117,108,174,102,173,133,157,174,63,61,76",
-                        "endOffsets": "295,467,601,706,860,992,1110,1219,1394,1497,1671,1805,1963,2138,2202,2264,2341"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "140",
+                        "endOffsets": "335"
                     },
                     "to": {
-                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3565,3672,3848,3986,4095,4253,4389,4511,4769,4948,5055,5233,5371,5533,5712,5780,5846",
-                        "endColumns": "106,175,137,108,157,135,121,112,178,106,177,137,161,178,67,65,80",
-                        "endOffsets": "3667,3843,3981,4090,4248,4384,4506,4619,4943,5050,5228,5366,5528,5707,5775,5841,5922"
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4624",
+                        "endColumns": "144",
+                        "endOffsets": "4764"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\871547848669a13539311a17395d04e0\\transformed\\core-1.7.0\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\38f19a295555dae3c53fbed15886c96d\\transformed\\core-1.7.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -91,20 +91,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\c5d1b3002b5a96207fd4daf4d70b3ddc\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-tl\\values.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\adacdbfa879ba2ddc12af26dc0779227\\transformed\\biometric-1.0.1\\res\\values-tl\\values-tl.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "140",
-                        "endOffsets": "335"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,183,297,393,515,668,811,963,1090,1228,1328",
+                        "endColumns": "127,113,95,121,152,142,151,126,137,99,125",
+                        "endOffsets": "178,292,388,510,663,806,958,1085,1223,1323,1449"
                     },
                     "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4624",
-                        "endColumns": "144",
-                        "endOffsets": "4764"
+                        "startLines": "33,56,57,60,61,62,63,64,65,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3025,5927,6041,6301,6423,6576,6719,6871,6998,7136,7236",
+                        "endColumns": "127,113,95,121,152,142,151,126,137,99,125",
+                        "endOffsets": "3148,6036,6132,6418,6571,6714,6866,6993,7131,7231,7357"
                     }
                 }
             ]

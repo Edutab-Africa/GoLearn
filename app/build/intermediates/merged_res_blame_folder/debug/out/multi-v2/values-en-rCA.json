@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.moodle.edutab.app-mergeDebugResources-33:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0e3120453a21a246b2089d98eb4f8a95\\transformed\\appcompat-1.4.2\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\871547848669a13539311a17395d04e0\\transformed\\core-1.7.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\38f19a295555dae3c53fbed15886c96d\\transformed\\core-1.7.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

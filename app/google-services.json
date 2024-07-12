@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1016166499467:android:127f6bbf8b64657cdf408e",
         "android_client_info": {
-          "package_name": "com.moodle.edutab"
+          "package_name": "com.moodle.golearn"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "1016166499467-eig6e8crbg11mqm4d8vgddi5vaq067dv.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.moodle.edutab"
+                "bundle_id": "com.moodle.golearn"
               }
             }
           ]
