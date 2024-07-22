@@ -4,7 +4,7 @@
             "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

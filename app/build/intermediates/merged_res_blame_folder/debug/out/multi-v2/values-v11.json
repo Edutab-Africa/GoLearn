@@ -4,7 +4,7 @@
             "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\305b57f12c1512d4a75ab52f5e882eb3\\transformed\\jetified-zxing-android-embedded-3.3.0\\res\\values-v11\\values-v11.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\aa19595179ac468917118d55807cf6d6\\transformed\\jetified-zxing-android-embedded-3.3.0\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

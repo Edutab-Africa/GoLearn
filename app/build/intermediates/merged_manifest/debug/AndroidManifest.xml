@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.moodle.golearn"
     android:hardwareAccelerated="true"
-    android:versionCode="43000"
+    android:versionCode="43001"
     android:versionName="4.3.0" >
 
     <uses-sdk

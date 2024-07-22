@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="43000"
+<widget android-versionCode="43001"
     id="com.moodle.golearn"
     ios-CFBundleVersion="4.3.0.0"
     version="4.3.0"
-    versionCode="43000"
+    versionCode="43001"
     xmlns="http://www.w3.org/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:cdv="http://cordova.apache.org/ns/1.0"
@@ -439,7 +439,7 @@
         value="true" />
     <preference
         name="AppendUserAgent"
-        value="MoodleMobile kemi 4.3.0 (43000)" />
+        value="MoodleMobile kemi 4.3.0 (43001)" />
     <preference
         name="BackupWebStorage"
         value="none" />

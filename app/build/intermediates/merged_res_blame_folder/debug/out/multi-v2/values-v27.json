@@ -4,7 +4,7 @@
             "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-v27/values-v27.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\6cc5c17542a8c6a938ab7b062eccdcdf\\transformed\\jetified-core-splashscreen-1.0.0-rc01\\res\\values-v27\\values-v27.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\6cc5c17542a8c6a938ab7b062eccdcdf\\transformed\\jetified-core-splashscreen-1.0.0-rc01\\res\\values-v27\\values-v27.xml",
                     "from": {
                         "startLines": "2,3,4,7",
                         "startColumns": "4,4,4,4",

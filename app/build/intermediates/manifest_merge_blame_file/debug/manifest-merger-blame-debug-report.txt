@@ -2,7 +2,7 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.moodle.golearn"
 4    android:hardwareAccelerated="true"
-5    android:versionCode="43000"
+5    android:versionCode="43001"
 6    android:versionName="4.3.0" >
 7
 8    <uses-sdk
@@ -194,94 +194,94 @@
 103    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
 104    <!-- for Samsung -->
 105    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
-105-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
-105-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+105-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+105-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
 106    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
-106-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
-106-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+106-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+106-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
 107    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
-107-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
-107-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+107-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+107-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
 108    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
-108-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
-108-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+108-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+108-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
 109    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
-109-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
-109-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+109-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+109-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
 110    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
-110-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
-110-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+110-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+110-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
 111    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
-111-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
-111-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+111-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+111-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
 112    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
-112-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
-112-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+112-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+112-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
 113    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
-113-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
-113-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+113-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+113-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
 114    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
-114-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
-114-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+114-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+114-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
 115    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
-115-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
-115-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+115-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+115-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
 116    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
-116-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
-116-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+116-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+116-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
 117    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
-117-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
-117-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+117-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+117-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
 118    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
-118-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
-118-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+118-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+118-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
 119    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
-119-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
-119-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+119-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+119-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
 120    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" /> <!-- TODO replace above two with next line after Android 4.2 -->
-120-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
-120-->[me.leolin:ShortcutBadger:1.1.22] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
+120-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+120-->[me.leolin:ShortcutBadger:1.1.22] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\90dd00d25f0d79c6607d12aa14d97c45\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
 121    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
 122    <uses-feature
-122-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:32:5-34:36
+122-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:32:5-34:36
 123        android:name="android.hardware.camera.autofocus"
-123-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:33:9-57
+123-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:33:9-57
 124        android:required="false" />
-124-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:34:9-33
+124-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:34:9-33
 125    <uses-feature
-125-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:35:5-37:36
+125-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:35:5-37:36
 126        android:name="android.hardware.camera.flash"
-126-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:36:9-53
+126-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:36:9-53
 127        android:required="false" />
-127-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:37:9-33
+127-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:37:9-33
 128    <uses-feature
-128-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:38:5-40:36
+128-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:38:5-40:36
 129        android:name="android.hardware.screen.landscape"
-129-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:39:9-57
+129-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:39:9-57
 130        android:required="false" />
-130-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:40:9-33
+130-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:40:9-33
 131    <uses-feature
-131-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:41:5-43:36
+131-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:41:5-43:36
 132        android:name="android.hardware.wifi"
-132-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:42:9-45
+132-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:42:9-45
 133        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-133-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:43:9-33
+133-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:43:9-33
 134    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-134-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:26:5-82
-134-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:26:22-79
+134-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:26:5-82
+134-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:26:22-79
 135    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-135-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:5-79
-135-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:22-76
+135-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:5-79
+135-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:25:22-76
 136    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-136-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:5-110
-136-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:22-107
+136-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:5-110
+136-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:26:22-107
 137
 138    <application
 138-->D:\wsq\bma\app\src\main\AndroidManifest.xml:5:5-66:19
 139        android:allowBackup="true"
 139-->D:\wsq\bma\app\src\main\AndroidManifest.xml:5:18-44
 140        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-140-->[androidx.core:core:1.7.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\38f19a295555dae3c53fbed15886c96d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+140-->[androidx.core:core:1.7.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\38f19a295555dae3c53fbed15886c96d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 141        android:dataExtractionRules="@xml/backup_rules"
 141-->D:\wsq\bma\app\src\main\AndroidManifest.xml:5:45-92
 142        android:debuggable="true"
@@ -555,62 +555,62 @@
 286-->D:\wsq\bma\app\src\main\AndroidManifest.xml:65:77-98
 287
 288        <activity
-288-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:46:9-52:63
+288-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:46:9-52:63
 289            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-289-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:47:13-74
+289-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:47:13-74
 290            android:clearTaskOnLaunch="true"
-290-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:48:13-45
+290-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:48:13-45
 291            android:screenOrientation="sensorLandscape"
-291-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:49:13-56
+291-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:49:13-56
 292            android:stateNotNeeded="true"
-292-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:50:13-42
+292-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:50:13-42
 293            android:theme="@style/zxing_CaptureTheme"
-293-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:51:13-54
+293-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:51:13-54
 294            android:windowSoftInputMode="stateAlwaysHidden" />
-294-->[com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\305b57f12c1512d4a75ab52f5e882eb3\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:52:13-60
+294-->[com.journeyapps:zxing-android-embedded:3.3.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\aa19595179ac468917118d55807cf6d6\transformed\jetified-zxing-android-embedded-3.3.0\AndroidManifest.xml:52:13-60
 295        <activity
-295-->[androidx.biometric:biometric:1.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
+295-->[androidx.biometric:biometric:1.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:28:9-31:67
 296            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
-296-->[androidx.biometric:biometric:1.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:29:13-78
+296-->[androidx.biometric:biometric:1.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:29:13-78
 297            android:exported="true"
-297-->[androidx.biometric:biometric:1.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:30:13-36
+297-->[androidx.biometric:biometric:1.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:30:13-36
 298            android:theme="@style/DeviceCredentialHandlerTheme" />
-298-->[androidx.biometric:biometric:1.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:31:13-64
+298-->[androidx.biometric:biometric:1.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\adacdbfa879ba2ddc12af26dc0779227\transformed\biometric-1.0.1\AndroidManifest.xml:31:13-64
 299
 300        <receiver
-300-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:29:9-40:20
+300-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:29:9-40:20
 301            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-301-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:30:13-78
+301-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:30:13-78
 302            android:exported="true"
-302-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:31:13-36
+302-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:31:13-36
 303            android:permission="com.google.android.c2dm.permission.SEND" >
-303-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:32:13-73
+303-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:32:13-73
 304            <intent-filter>
-304-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:33:13-35:29
+304-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:33:13-35:29
 305                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-305-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:34:17-81
-305-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:34:25-78
+305-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:34:17-81
+305-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:34:25-78
 306            </intent-filter>
 307
 308            <meta-data
-308-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:37:13-39:40
+308-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:37:13-39:40
 309                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
-309-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:38:17-92
+309-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:38:17-92
 310                android:value="true" />
-310-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:39:17-37
+310-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:39:17-37
 311        </receiver>
 312        <!--
 313             FirebaseMessagingService performs security checks at runtime,
 314             but set to not exported to explicitly avoid allowing another app to call it.
 315        -->
 316        <service
-316-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:46:9-53:19
+316-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:46:9-53:19
 317            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-317-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:47:13-82
+317-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:47:13-82
 318            android:directBootAware="true"
-318-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:48:13-43
+318-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:48:13-43
 319            android:exported="false" >
-319-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:49:13-37
+319-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:49:13-37
 320            <intent-filter android:priority="-500" >
 320-->D:\wsq\bma\app\src\main\AndroidManifest.xml:57:13-59:29
 321                <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -619,172 +619,172 @@
 322            </intent-filter>
 323        </service>
 324        <service
-324-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:54:9-63:19
+324-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:54:9-63:19
 325            android:name="com.google.firebase.components.ComponentDiscoveryService"
-325-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:55:13-84
+325-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:55:13-84
 326            android:directBootAware="true"
-326-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+326-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
 327            android:exported="false" >
-327-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:56:13-37
+327-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:56:13-37
 328            <meta-data
-328-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:57:13-59:85
+328-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:57:13-59:85
 329                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
-329-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:58:17-122
+329-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:58:17-122
 330                android:value="com.google.firebase.components.ComponentRegistrar" />
-330-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:59:17-82
+330-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:59:17-82
 331            <meta-data
-331-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:60:13-62:85
+331-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:60:13-62:85
 332                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-332-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:61:17-119
+332-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:61:17-119
 333                android:value="com.google.firebase.components.ComponentRegistrar" />
-333-->[com.google.firebase:firebase-messaging:23.4.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:62:17-82
+333-->[com.google.firebase:firebase-messaging:23.4.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b6e1aff889b4f80a093c4fad5358db31\transformed\jetified-firebase-messaging-23.4.1\AndroidManifest.xml:62:17-82
 334            <meta-data
-334-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
+334-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:31:13-33:85
 335                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-335-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
+335-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:32:17-139
 336                android:value="com.google.firebase.components.ComponentRegistrar" />
-336-->[com.google.android.gms:play-services-measurement-api:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
+336-->[com.google.android.gms:play-services-measurement-api:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\7583968b1c8994b53fbee182f98486f4\transformed\jetified-play-services-measurement-api-21.1.0\AndroidManifest.xml:33:17-82
 337            <meta-data
-337-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+337-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
 338                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-338-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+338-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
 339                android:value="com.google.firebase.components.ComponentRegistrar" />
-339-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+339-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
 340            <meta-data
-340-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+340-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
 341                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-341-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+341-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
 342                android:value="com.google.firebase.components.ComponentRegistrar" />
-342-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+342-->[com.google.firebase:firebase-installations:17.2.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\f8be281d435615eec1960390c205b2bb\transformed\jetified-firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
 343            <meta-data
-343-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+343-->[com.google.firebase:firebase-common-ktx:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
 344                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-344-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+344-->[com.google.firebase:firebase-common-ktx:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
 345                android:value="com.google.firebase.components.ComponentRegistrar" />
-345-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+345-->[com.google.firebase:firebase-common-ktx:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\b32dc55b854aef98665c0128d436cd6b\transformed\jetified-firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
 346            <meta-data
-346-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+346-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
 347                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-347-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+347-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:36:17-109
 348                android:value="com.google.firebase.components.ComponentRegistrar" />
-348-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+348-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:37:17-82
 349            <meta-data
-349-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+349-->[com.google.firebase:firebase-datatransport:18.1.7] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
 350                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-350-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+350-->[com.google.firebase:firebase-datatransport:18.1.7] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
 351                android:value="com.google.firebase.components.ComponentRegistrar" />
-351-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+351-->[com.google.firebase:firebase-datatransport:18.1.7] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\d6704d6cf2a97f0e964e964d80645dce\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 352        </service>
 353
 354        <provider
-354-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+354-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
 355            android:name="com.google.firebase.provider.FirebaseInitProvider"
-355-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+355-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:24:13-77
 356            android:authorities="com.moodle.golearn.firebaseinitprovider"
-356-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+356-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:25:13-72
 357            android:directBootAware="true"
-357-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+357-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:26:13-43
 358            android:exported="false"
-358-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+358-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:27:13-37
 359            android:initOrder="100" />
-359-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+359-->[com.google.firebase:firebase-common:20.4.2] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\4cc7c4073eecfb0f587cfe3bbe13f30a\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:28:13-36
 360
 361        <activity
-361-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+361-->[com.google.android.gms:play-services-base:18.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 362            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-362-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+362-->[com.google.android.gms:play-services-base:18.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 363            android:exported="false"
-363-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+363-->[com.google.android.gms:play-services-base:18.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 364            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-364-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+364-->[com.google.android.gms:play-services-base:18.0.1] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\556ab17d0d2e71d9f069ea00c7122cf4\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 365
 366        <receiver
-366-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
+366-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:29:9-33:20
 367            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-367-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
+367-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:30:13-85
 368            android:enabled="true"
-368-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
+368-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:31:13-35
 369            android:exported="false" >
-369-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
+369-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:32:13-37
 370        </receiver>
 371
 372        <service
-372-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
+372-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:35:9-38:40
 373            android:name="com.google.android.gms.measurement.AppMeasurementService"
-373-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
+373-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:36:13-84
 374            android:enabled="true"
-374-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
+374-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:37:13-35
 375            android:exported="false" />
-375-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
+375-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:38:13-37
 376        <service
-376-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
+376-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:39:9-43:72
 377            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-377-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
+377-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:40:13-87
 378            android:enabled="true"
-378-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
+378-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:41:13-35
 379            android:exported="false"
-379-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
+379-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:42:13-37
 380            android:permission="android.permission.BIND_JOB_SERVICE" />
-380-->[com.google.android.gms:play-services-measurement:21.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
+380-->[com.google.android.gms:play-services-measurement:21.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\da93b7815fff9e01156520866ea03937\transformed\jetified-play-services-measurement-21.1.0\AndroidManifest.xml:43:13-69
 381
 382        <meta-data
-382-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+382-->[com.google.android.gms:play-services-basement:18.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 383            android:name="com.google.android.gms.version"
-383-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+383-->[com.google.android.gms:play-services-basement:18.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 384            android:value="@integer/google_play_services_version" />
-384-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+384-->[com.google.android.gms:play-services-basement:18.1.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cbda0756a0c539940dbced08ba1dc02f\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 385
 386        <provider
-386-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+386-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 387            android:name="androidx.startup.InitializationProvider"
-387-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+387-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 388            android:authorities="com.moodle.golearn.androidx-startup"
-388-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+388-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 389            android:exported="false" >
-389-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+389-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 390            <meta-data
-390-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+390-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 391                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-391-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+391-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 392                android:value="androidx.startup" />
-392-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+392-->[androidx.emoji2:emoji2:1.0.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\1e81c25d70150d5714fc7f8d99635025\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 393            <meta-data
-393-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+393-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 394                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-394-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+394-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 395                android:value="androidx.startup" />
-395-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+395-->[androidx.lifecycle:lifecycle-process:2.4.0] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\2ece4a4474ad639b588c3cefa8dc535b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 396        </provider>
 397
 398        <service
-398-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+398-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
 399            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-399-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+399-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
 400            android:exported="false" >
-400-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+400-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
 401            <meta-data
-401-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+401-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
 402                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-402-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+402-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
 403                android:value="cct" />
-403-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+403-->[com.google.android.datatransport:transport-backend-cct:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\71751a571b46b7ae43e1bc4a94e2d98e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
 404        </service>
 405        <service
-405-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+405-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
 406            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-406-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+406-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
 407            android:exported="false"
-407-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+407-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
 408            android:permission="android.permission.BIND_JOB_SERVICE" >
-408-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+408-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
 409        </service>
 410
 411        <receiver
-411-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+411-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
 412            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-412-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+412-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
 413            android:exported="false" />
-413-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Vilgax Dev\.gradle\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+413-->[com.google.android.datatransport:transport-runtime:3.1.8] D:\max\New folder\BMA\bma-platforms-kemi\platforms\android\caches\transforms-3\cb9e521450d1f7483fceb5a67f116825\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
 414    </application>
 415
 416</manifest>

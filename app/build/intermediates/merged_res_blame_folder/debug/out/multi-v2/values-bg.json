@@ -4,7 +4,58 @@
             "outputFile": "com.moodle.golearn.app-mergeDebugResources-33:/values-bg/values-bg.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\1ec1e2091e15daa84bdf5a9d645b8de7\\transformed\\material-1.4.0\\res\\values-bg\\values-bg.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\556ab17d0d2e71d9f069ea00c7122cf4\\transformed\\jetified-play-services-base-18.0.1\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,298,459,590,697,860,991,1106,1211,1376,1484,1655,1789,1942,2104,2170,2225",
+                        "endColumns": "104,160,130,106,162,130,114,104,164,107,170,133,152,161,65,54,68",
+                        "endOffsets": "297,458,589,696,859,990,1105,1210,1375,1483,1654,1788,1941,2103,2169,2224,2293"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3548,3657,3822,3957,4068,4235,4370,4489,4736,4905,5017,5192,5330,5487,5653,5723,5782",
+                        "endColumns": "108,164,134,110,166,134,118,108,168,111,174,137,156,165,69,58,72",
+                        "endOffsets": "3652,3817,3952,4063,4230,4365,4484,4593,4900,5012,5187,5325,5482,5648,5718,5777,5850"
+                    }
+                },
+                {
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\cbda0756a0c539940dbced08ba1dc02f\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "133",
+                        "endOffsets": "328"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4598",
+                        "endColumns": "137",
+                        "endOffsets": "4731"
+                    }
+                },
+                {
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\38f19a295555dae3c53fbed15886c96d\\transformed\\core-1.7.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "117",
+                        "startColumns": "4",
+                        "startOffsets": "11247",
+                        "endColumns": "100",
+                        "endOffsets": "11343"
+                    }
+                },
+                {
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\1ec1e2091e15daa84bdf5a9d645b8de7\\transformed\\material-1.4.0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-bg\\values-bg.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\0dd13d4276a6b3c24b72e81d05ae62da\\transformed\\appcompat-1.4.2\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -40,41 +91,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\556ab17d0d2e71d9f069ea00c7122cf4\\transformed\\jetified-play-services-base-18.0.1\\res\\values-bg\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,298,459,590,697,860,991,1106,1211,1376,1484,1655,1789,1942,2104,2170,2225",
-                        "endColumns": "104,160,130,106,162,130,114,104,164,107,170,133,152,161,65,54,68",
-                        "endOffsets": "297,458,589,696,859,990,1105,1210,1375,1483,1654,1788,1941,2103,2169,2224,2293"
-                    },
-                    "to": {
-                        "startLines": "38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54,55",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3548,3657,3822,3957,4068,4235,4370,4489,4736,4905,5017,5192,5330,5487,5653,5723,5782",
-                        "endColumns": "108,164,134,110,166,134,118,108,168,111,174,137,156,165,69,58,72",
-                        "endOffsets": "3652,3817,3952,4063,4230,4365,4484,4593,4900,5012,5187,5325,5482,5648,5718,5777,5850"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\cbda0756a0c539940dbced08ba1dc02f\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-bg\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "133",
-                        "endOffsets": "328"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4598",
-                        "endColumns": "137",
-                        "endOffsets": "4731"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\adacdbfa879ba2ddc12af26dc0779227\\transformed\\biometric-1.0.1\\res\\values-bg\\values-bg.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\adacdbfa879ba2ddc12af26dc0779227\\transformed\\biometric-1.0.1\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -91,24 +108,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\38f19a295555dae3c53fbed15886c96d\\transformed\\core-1.7.0\\res\\values-bg\\values-bg.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "117",
-                        "startColumns": "4",
-                        "startOffsets": "11247",
-                        "endColumns": "100",
-                        "endOffsets": "11343"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Vilgax Dev\\.gradle\\caches\\transforms-3\\305b57f12c1512d4a75ab52f5e882eb3\\transformed\\jetified-zxing-android-embedded-3.3.0\\res\\values-bg\\values-bg.xml",
+                    "source": "D:\\max\\New folder\\BMA\\bma-platforms-kemi\\platforms\\android\\caches\\transforms-3\\aa19595179ac468917118d55807cf6d6\\transformed\\jetified-zxing-android-embedded-3.3.0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

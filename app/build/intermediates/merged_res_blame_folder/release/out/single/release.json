@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xhdpi_smallicon.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xhdpi/smallicon.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_provider_paths.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-hdpi_ic_action_remove.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-hdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-mdpi_smallicon.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-mdpi/smallicon.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_config.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/config.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_network_security_config.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-mdpi_ic_action_remove.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-mdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_localnotification_provider_paths.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/localnotification_provider_paths.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/layout_biometric_activity.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/layout/biometric_activity.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable_ic_cvd_splashscreens.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable/ic_cvd_splashscreens.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_opener_paths.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/opener_paths.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-ldpi_smallicon.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-ldpi/smallicon.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-mdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xxhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-hdpi_smallicon.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-hdpi/smallicon.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/xml_camera_provider_paths.xml.flat",
+        "source": "com.moodle.golearn.app-main-36:/xml/camera_provider_paths.xml"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.moodle.golearn.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.moodle.golearn.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    }
+]

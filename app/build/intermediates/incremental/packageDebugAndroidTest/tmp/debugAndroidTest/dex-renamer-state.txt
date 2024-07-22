@@ -1,4 +1,4 @@
-#Thu Jul 11 11:37:41 EAT 2024
+#Mon Jul 22 21:53:24 EAT 2024
 base.0=D\:\\wsq\\bma\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 base.1=D\:\\wsq\\bma\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
 path.0=0/classes.dex

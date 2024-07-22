@@ -3,30 +3,30 @@
 3    package="com.moodle.golearn.test" >
 4
 5    <uses-sdk
-5-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:5:5-74
+5-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:5:5-74
 6        android:minSdkVersion="22"
-6-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:5:15-41
+6-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:5:42-71
+7-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:11:5-15:68
+9-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:11:5-15:68
 10        android:name="android.test.InstrumentationTestRunner"
-10-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:11:22-75
+10-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:11:22-75
 11        android:functionalTest="false"
-11-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:14:22-52
+11-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:13:22-53
+12-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:13:22-53
 13        android:label="Tests for com.moodle.golearn"
-13-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:15:22-66
+13-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:15:22-66
 14        android:targetPackage="com.moodle.golearn" />
-14-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:12:22-64
+14-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:12:22-64
 15
 16    <application android:debuggable="true" >
-16-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:7:5-9:19
+16-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:7:5-9:19
 17        <uses-library android:name="android.test.runner" />
-17-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:8:9-60
-17-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14975198307190366245.xml:8:23-57
+17-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:8:9-60
+17-->D:\wsq\bma\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3763004480978989867.xml:8:23-57
 18    </application>
 19
 20</manifest>
