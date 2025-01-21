@@ -1,7 +1,4 @@
-#Mon Jul 22 21:53:24 EAT 2024
-base.0=D\:\\wsq\\bma\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-base.1=D\:\\wsq\\bma\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
-path.0=0/classes.dex
-path.1=12/classes.dex
+#Tue Jan 21 10:29:08 EAT 2025
+base.0=D\:\\New folder\\GoLearn\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 renamed.0=classes.dex
-renamed.1=classes2.dex
+path.0=0/classes.dex

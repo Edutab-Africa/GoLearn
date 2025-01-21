@@ -1,7 +1,0 @@
-com.moodle.golearn.test.app-androidTest-0 D:\wsq\bma\app\build\generated\res\resValues\androidTest\debug
-com.moodle.golearn.test.app-androidTest-1 D:\wsq\bma\app\build\generated\res\rs\androidTest\debug
-com.moodle.golearn.test.app-mergeDebugAndroidTestResources-2 D:\wsq\bma\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.moodle.golearn.test.app-mergeDebugAndroidTestResources-3 D:\wsq\bma\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.moodle.golearn.test.app-merged_res-4 D:\wsq\bma\app\build\intermediates\merged_res\debugAndroidTest
-com.moodle.golearn.test.app-androidTest-5 D:\wsq\bma\app\src\androidTest\res
-com.moodle.golearn.test.app-androidTestDebug-6 D:\wsq\bma\app\src\androidTestDebug\res
