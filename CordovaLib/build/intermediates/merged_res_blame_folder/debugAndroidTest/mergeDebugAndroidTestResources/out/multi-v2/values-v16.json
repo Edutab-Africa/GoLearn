@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.moodle.golearn.test.CordovaLib-mergeDebugAndroidTestResources-14:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "D:\\software\\flutter\\caches\\transforms-4\\099dab2a7692352ebf1e329be772b129\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "D:\\software\\flutter\\caches\\transforms-4\\52f69dbab50b461ec45c63c0d93b6d92\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

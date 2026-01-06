@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="43001"
-    id="com.moodle.golearn"
+    id="com.moodle.glearn"
     ios-CFBundleVersion="4.3.0.0"
     version="4.3.0"
     versionCode="43001"
@@ -234,11 +234,11 @@
             name="AndroidXEnabled"
             value="true" />
     </platform>
-    <name>KEMI eLearning</name>
-    <description>eLearning app for Kenyan school leaders.</description>
+    <name>Edutab GoLearn</name>
+    <description>eLearning app for Teachers</description>
     <author
         email="mobile@moodle.com"
-        href="http://moodle.com">KEMI eLearning Mobile team
+        href="http://moodle.com">Edutab Golearn Mobile team
     </author>
     <content src="index.html" />
     <access origin="*" />

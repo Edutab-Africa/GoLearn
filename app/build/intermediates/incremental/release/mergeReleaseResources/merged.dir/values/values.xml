@@ -1208,7 +1208,6 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="confirm_device_credential_password">Use password</string>
     <string name="default_error_msg">Unknown error</string>
-    <string name="default_web_client_id" translatable="false">1016166499467-ocrvif3s27ed1559eg1fm41rk7vehkkp.apps.googleusercontent.com</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -1221,12 +1220,12 @@
     <string name="fingerprint_error_no_fingerprints">No fingerprints enrolled.</string>
     <string name="fingerprint_error_user_canceled">Fingerprint operation canceled by user.</string>
     <string name="fingerprint_not_recognized">Not recognized</string>
-    <string name="gcm_defaultSenderId" translatable="false">1016166499467</string>
+    <string name="gcm_defaultSenderId" translatable="false">822564713410</string>
     <string name="generic_error_user_canceled">Authentication canceled by user.</string>
-    <string name="google_api_key" translatable="false">AIzaSyConVttbYFC9LD96eqiiCm88Lc1pVIjD1M</string>
-    <string name="google_app_id" translatable="false">1:1016166499467:android:127f6bbf8b64657cdf408e</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyConVttbYFC9LD96eqiiCm88Lc1pVIjD1M</string>
-    <string name="google_storage_bucket" translatable="false">edutab-bma.appspot.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKV5JsfYRiBp04iJM47RdiTP6SU1Wu3J4</string>
+    <string name="google_app_id" translatable="false">1:822564713410:android:548bf193f023eebfaa1c5b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKV5JsfYRiBp04iJM47RdiTP6SU1Wu3J4</string>
+    <string name="google_storage_bucket" translatable="false">edutab-golearn-2c678.firebasestorage.app</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
     <string name="item_view_role_description">Tab</string>
@@ -1292,7 +1291,7 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="project_id" translatable="false">edutab-bma</string>
+    <string name="project_id" translatable="false">edutab-golearn-2c678</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="zxing_app_name">Barcode Scanner</string>

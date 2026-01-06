@@ -183,6 +183,8 @@ task cdvPrintProps {
 }
 
 android {
+    namespace ='com.moodle.glearn'
+    compileSdkVersion 34
     defaultConfig {
         versionCode cdvVersionCode ?: new BigInteger("" + privateHelpers.extractIntFromManifest("versionCode"))
         applicationId privateHelpers.extractStringFromManifest("package")
